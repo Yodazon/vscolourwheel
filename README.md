@@ -6,7 +6,7 @@ This extension for Visual Studio Code allows you to quickly change Hex colour va
 
 The extnesion allows you to modify the Hex value in line in your code.
 
-It will also allow you to chnage the brigthness and saturation of the colour.
+It will also allow you to change the brigthness and saturation of the colour.
 
 Below is an image of the extension being used.
 
